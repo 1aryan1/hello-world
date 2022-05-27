@@ -1,0 +1,49 @@
+.button
+{
+    background-color: aquamarine;
+    border-color: black;
+    border-radius: 10%;
+    border-width: 1px;
+    padding: 20px;
+    width: 150px;
+    height: 5%;
+} 
+.button:active{
+    transform: translateY(.5px);
+}
+
+h1
+{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px 2px red;
+}
+
+
+
+div
+{
+    background-color: darkgrey;
+    border-width: 2px;
+    border-color: darkred;
+    text-align: center;
+    padding: 5%;
+    align-content: center;
+    width: 10%;
+    height: 10%;
+    margin: auto;
+    border-radius: 15%;
+    opacity: .6;
+}
+
+#div2
+{
+    background-origin: padding-box;
+    background-color: chocolate;
+    background-position: center;
+}
+body{
+    background-color: cadetblue;
+}
