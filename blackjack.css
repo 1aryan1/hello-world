@@ -1,0 +1,33 @@
+body
+{
+    text-align: center;
+    background-image: url(/black.png);
+    background-size: cover;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    color: goldenrod;
+    font-weight: bold;
+
+}
+
+button{
+    background-color: goldenrod;
+    color: #016f32;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5%;
+    border: none;
+    cursor:pointer;
+}
+#message-el
+{
+    font-style: italic;
+    font-weight: bold;
+}
+
