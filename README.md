@@ -1,5 +1,3 @@
-# hello-world
-just another repository
-
-hi,
-this is just me going through the github tutorial.
+#Projects
+ These are a few projects based up on my learnings
+ 
